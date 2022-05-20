@@ -1,2 +1,2 @@
 # testrepo
-Ez egy test readme
+Repo for testing github.
