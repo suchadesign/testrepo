@@ -1,2 +1,6 @@
 # testrepo
-Ez egy test readme
+👋 Hi, I’m @suchadesign
+👀 I’m interested in coding.
+🌱 I’m currently learning html - css - java
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
